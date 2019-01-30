@@ -85,8 +85,8 @@ if( /(android)/i.test(navigator.userAgent) ) {
     };
 } else {
     admobid = { // for Windows Phone
-        banner: 'ca-app-pub-6869992474017983/8878394753',
-        interstitial: 'ca-app-pub-6869992474017983/1355127956'
+        banner: 'ca-app-pub-5602387816569419/3277591180',
+        interstitial: 'ca-app-pub-5602387816569419/1298295103'
     };
 }
 
